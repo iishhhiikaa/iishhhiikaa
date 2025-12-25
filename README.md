@@ -52,20 +52,6 @@ I enjoy understanding how things work behind the scenes and turning ideas into s
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=chanchalbhatia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=chanchalbhatia&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanchalbhatia&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=chanchalbhatia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
